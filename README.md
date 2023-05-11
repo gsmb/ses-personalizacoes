@@ -4,8 +4,10 @@ Projeto para criação de Card com QR Code
 Requsitos para rodar projeto:
 Projeto exige Java >=11
 
-## Tecnologias do Projeto
+## Tecnologias do Projeto (Dependênicas)
 
-1. Spring boot
-2. Docker
-3. gradle
+- `Java Zulu SDK`
+- `Spring boot version 2.3.4.RELEASE`
+- `Docker`
+- `MongoDB`
+- `gradle`

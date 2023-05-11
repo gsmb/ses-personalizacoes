@@ -1,4 +1,4 @@
-package com.example.sespersonalizacoes;
+package br.com.sespersonalizacoes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
