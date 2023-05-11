@@ -1,0 +1,11 @@
+version: '3.9'
+services:
+  mongodb.ses-comunicacoes:
+    image: mongo
+    ports:
+      - '27017:27017'
+    volumes:
+      - ses-personalizacoes_mongo:/data/db
+volumes:
+  ses-personalizacoes_mongo:
+    driver: "local"
