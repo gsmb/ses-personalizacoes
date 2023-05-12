@@ -1,4 +1,4 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://root:root1234@localhost:27017/sesDB
+      uri: ${SES_PERSONALIZACOES_DB_URI}
