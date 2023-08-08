@@ -1,1 +1,4 @@
-
+spring:
+  data:
+    mongodb:
+      uri: ${SES_PERSONALIZACOES_DB_URI}
